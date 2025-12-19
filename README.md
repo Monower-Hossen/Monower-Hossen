@@ -1,5 +1,3 @@
-# 🚀 Monower Hossen — Machine Learning Engineering Student
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=monower-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="monower-hossen" />
 </p>
@@ -9,12 +7,8 @@ Hello! I’m **Monower Hossen**, a **Machine Learning Engineering student** curr
 
 I am passionate about building **data-driven, real-world solutions** using **Machine Learning, Deep Learning, and Data Science**. I actively work on hands-on projects, improve my engineering skills, and share my learning journey through GitHub and LinkedIn.
 
----
-
 ## 🎯 Career Objective
 To secure opportunities in **Machine Learning and Data Science** where I can apply analytical thinking, build scalable ML solutions, and continuously grow as a professional engineer, with the goal of becoming an **advanced-level Machine Learning Engineer by 2026**.
-
----
 
 ## 🧠 Skills & Technologies
 
@@ -47,15 +41,11 @@ To secure opportunities in **Machine Learning and Data Science** where I can app
 - Jupyter Notebook  
 - VS Code  
 
----
-
 ## 📈 Learning & Growth
 - Practicing Machine Learning & Deep Learning consistently  
 - Building end-to-end ML projects  
 - Working with real-world datasets  
 - Improving technical documentation and communication skills  
-
----
 
 ## 🎯 Future Goals
 - Become an industry-ready Machine Learning Engineer  
@@ -63,19 +53,13 @@ To secure opportunities in **Machine Learning and Data Science** where I can app
 - Pursue higher studies in Machine Learning  
 - Work with large-scale real-world datasets  
 
----
-
 ## 🌐 Profiles
 - **GitHub:** https://github.com/Monower-Hossen  
 - **LinkedIn:** https://www.linkedin.com/in/monower-hossen-97652a376  
 
----
-
 ## 🤝 Contact & Collaboration
 - 📫 **Email:** monower.cse@gmail.com  
 - 👨‍💻 Open to **internships, collaborations, research, and ML project discussions**
-
----
 
 ## 🔗 Connect With Me
 <p align="left">
@@ -90,8 +74,6 @@ To secure opportunities in **Machine Learning and Data Science** where I can app
   </a>
 </p>
 
----
-
 ## 🛠 Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
@@ -102,8 +84,6 @@ To secure opportunities in **Machine Learning and Data Science** where I can app
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p>
