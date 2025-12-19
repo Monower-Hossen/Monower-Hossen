@@ -1,24 +1,119 @@
-<h1 align="center">Hi 👋, I'm Monower Hossen !</h1>
-<h3 align="center">A passionate Machine learner from Bangladesh</h3>
+# 🚀 Monower Hossen — Machine Learning Engineering Student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monower-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="monower-hossen" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Monower-Hossen](https://github.com/Monower-Hossen)
-
-- 📫 How to reach me **monower.cse@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/monower894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monower894" height="30" width="40" /></a>
-<a href="https://fb.com/monower333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="monower333" height="30" width="40" /></a>
-<a href="https://instagram.com/monower_6894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monower_6894" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=monower-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="monower-hossen" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 👋 About Me
+Hello! I’m **Monower Hossen**, a **Machine Learning Engineering student** currently in my **7th semester of BSc in Computer Science and Engineering**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monower-hossen&show_icons=true&locale=en&layout=compact" alt="monower-hossen" /></p>
+I am passionate about building **data-driven, real-world solutions** using **Machine Learning, Deep Learning, and Data Science**. I actively work on hands-on projects, improve my engineering skills, and share my learning journey through GitHub and LinkedIn.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monower-hossen&show_icons=true&locale=en" alt="monower-hossen" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monower-hossen&" alt="monower-hossen" /></p>
+## 🎯 Career Objective
+To secure opportunities in **Machine Learning and Data Science** where I can apply analytical thinking, build scalable ML solutions, and continuously grow as a professional engineer, with the goal of becoming an **advanced-level Machine Learning Engineer by 2026**.
+
+---
+
+## 🧠 Skills & Technologies
+
+### Programming Languages
+- Python  
+- SQL (Basic)
+
+### Machine Learning
+- Regression & Classification  
+- Feature Engineering  
+- Exploratory Data Analysis (EDA)  
+- Outlier Detection (IQR Method)  
+- Model Evaluation & Performance Metrics  
+
+### Deep Learning
+- Artificial Neural Networks (ANN)  
+- Basic understanding of Convolutional Neural Networks (CNN)
+
+### Libraries & Frameworks
+- NumPy  
+- Pandas  
+- Matplotlib & Seaborn  
+- Scikit-learn  
+- XGBoost  
+- TensorFlow / Keras (Basic)
+
+### Tools & Platforms
+- Git & GitHub  
+- Streamlit  
+- Jupyter Notebook  
+- VS Code  
+
+---
+
+## 📈 Learning & Growth
+- Practicing Machine Learning & Deep Learning consistently  
+- Building end-to-end ML projects  
+- Working with real-world datasets  
+- Improving technical documentation and communication skills  
+
+---
+
+## 🎯 Future Goals
+- Become an industry-ready Machine Learning Engineer  
+- Build and deploy production-level ML & DL projects  
+- Pursue higher studies in Machine Learning  
+- Work with large-scale real-world datasets  
+
+---
+
+## 🌐 Profiles
+- **GitHub:** https://github.com/Monower-Hossen  
+- **LinkedIn:** https://www.linkedin.com/in/monower-hossen-97652a376  
+
+---
+
+## 🤝 Contact & Collaboration
+- 📫 **Email:** monower.cse@gmail.com  
+- 👨‍💻 Open to **internships, collaborations, research, and ML project discussions**
+
+---
+
+## 🔗 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/monower-hossen-97652a376" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/monower333" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/monower_6894" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monower-hossen&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=monower-hossen&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monower-hossen" />
+</p>
