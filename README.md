@@ -19,5 +19,15 @@ I am passionate about building **data-driven, real-world solutions** using **Mac
 ![](https://nirzak-streak-stats.vercel.app/?user=Monower-Hossen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Monower-Hossen&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monower-Hossen&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monower-Hossen&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Monower-Hossen&theme=dark)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Monower-Hossen&limit=5&theme=dark&combine_all_yearly_contributions=true)
